@@ -7,3 +7,4 @@ This is the firs file in project DEMO
 	Big change coming which will need a branch
 	
 	After branch I'm writing this.
+###Modify file to demo STASHING
