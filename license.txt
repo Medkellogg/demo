@@ -1,2 +1,0 @@
-#license.md
-This is Open Source License v1.0MK
